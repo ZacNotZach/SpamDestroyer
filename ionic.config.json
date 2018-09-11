@@ -1,0 +1,7 @@
+{
+  "name": "SpamDestroyer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
